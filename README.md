@@ -78,5 +78,5 @@ run app
 
 ## Authors
 
-<a href="https://github.com/sajibsaj66](https://mrnitishroy.github.io/)https://mrnitishroy.github.io/" target="blank">Shamsul Alam Sajib </a>
+<a href="https://github.com/sajibsaj66](https://github.com/sajibsaj66)https://github.com/sajibsaj66/" target="blank">Shamsul Alam Sajib </a>
 
